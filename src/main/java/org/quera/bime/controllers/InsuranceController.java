@@ -1,4 +1,4 @@
-package org.quera.controllers;
+package org.quera.bime.controllers;
 
 import org.quera.bime.data.InsuranceDto;
 import org.quera.bime.service.InsuranceService;
